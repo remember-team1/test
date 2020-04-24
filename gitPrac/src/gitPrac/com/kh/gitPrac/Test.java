@@ -8,10 +8,18 @@ public class Test {
 		
 		System.out.println("1111");
 		System.out.println("³­ Á¶¿ø!!!");
+<<<<<<< HEAD
 		System.out.println("abcd");
 		System.out.println("aaaa");
 		System.out.println("bbbb");
 		System.out.println("cccc");
+=======
+		
+		System.out.println("zzzz");
+		
+		System.out.println("¤»¤»¤»");
+		
+>>>>>>> refs/remotes/origin/master
 	}
 
 }
