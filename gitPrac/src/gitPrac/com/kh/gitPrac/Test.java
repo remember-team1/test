@@ -11,10 +11,7 @@ public class Test {
 		System.out.println("abcd");
 		System.out.println("aaaa");
 		System.out.println("bbbb");
-		
-		けいしかしい
-		
-		ぞぞぞぞぞぞ
+		System.out.println("cccc");
 	}
 
 }
