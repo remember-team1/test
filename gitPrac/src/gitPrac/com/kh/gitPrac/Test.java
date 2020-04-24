@@ -27,6 +27,7 @@ public class Test {
 		
 		
 		
+		
 >>>>>>> refs/remotes/origin/dev2
 		
 		
