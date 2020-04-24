@@ -11,6 +11,8 @@ public class Test {
 		System.out.println("abcd");
 		
 		けいしかしい
+		
+		ぞぞぞぞぞぞ
 	}
 
 }
