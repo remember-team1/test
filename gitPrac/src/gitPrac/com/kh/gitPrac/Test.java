@@ -13,6 +13,7 @@ public class Test {
 		System.out.println("ㅋㅋㅋ");
 		
 		System.out.println("나 브랜치 dev1이야");
+		System.out.println("오에");
 		
 		System.out.println("나 브랜치 dev2야");
 		
